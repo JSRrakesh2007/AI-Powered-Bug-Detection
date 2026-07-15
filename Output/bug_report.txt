@@ -1,0 +1,5 @@
+Bug Detected!
+
+Line Number : 3
+Error Type  : Syntax Error
+Description : invalid syntax. Maybe you meant '==' or ':=' instead of '='?
